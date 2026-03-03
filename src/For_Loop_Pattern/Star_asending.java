@@ -10,8 +10,9 @@ public class Star_asending {
 		{
 			for(j = 1 ; j <= i-1 ; j++)
 			{
-				System.out.println("*");
+				System.out.print("*");
 			}
+			System.out.println();
 		}
 	}
 
